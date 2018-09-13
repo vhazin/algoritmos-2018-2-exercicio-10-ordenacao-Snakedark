@@ -1,1 +1,1 @@
-# algoritmos-2018-2-exercicio-04-tabelas-hash-Snakedark
+# algoritmos-2018-2-exercicio-05-arvore-binaria-de-busca-Snakedark
